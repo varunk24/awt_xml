@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href="ex4.xsl"?>
+<emp>
+<s>
+ <eno> 1001 </eno>
+ <name> 
+	<fname> Divyank </fname>
+	<lname> Singh </lname>
+	<mname> Sikarwar </mname>
+ </name>
+ <fathername> Ajay Sikarwar </fathername>
+ <DOB> 18-01-2000 </DOB>
+ <city> Agra </city>
+ <state> UP </state>
+ <qualification> BCA </qualification>
+</s>
+<s>
+ <eno> 1002 </eno>
+ <name> 
+	<fname> Anush </fname>
+	<lname> Gill </lname>
+	<mname> Singh </mname>
+ </name>
+ <fathername> Suresh Singh Gill </fathername>
+ <DOB> 18-02-2000 </DOB>
+ <city> Bhopal </city>
+ <state> MP </state>
+ <qualification> MCA </qualification>
+</s>
+<s>
+ <eno> 1003 </eno>
+ <name> 
+	<fname> Himanshi </fname>
+	<lname> Sharma </lname>
+	<mname> S </mname>
+ </name>
+ <fathername> Vijay Sharma </fathername>
+ <DOB> 18-03-2000 </DOB>
+ <city> Chennai </city>
+ <state> TN </state>
+ <qualification> BCA </qualification>
+</s>
+</emp>
