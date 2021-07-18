@@ -1,0 +1,10 @@
+car {
+  display: block;
+}
+year {
+  color: red;
+}
+model {
+  color: green;
+}
+accessories{color: blue;}
